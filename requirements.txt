@@ -4,7 +4,7 @@ gdbn==0.1
 gnumpy==0.2
 h5py==2.5.0
 isort==4.2.2
-joblib==0.9.4
+joblib==1.2.0
 Keras==0.3.1
 Lasagne==0.1
 nolearn==0.5
